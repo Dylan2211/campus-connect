@@ -6,11 +6,7 @@ Event date: To be confirmed.
 
 Venue: To be confirmed.
 
-<<<<<<< HEAD
-Organiser: Dylan
-=======
-Organisers: Team coordinator
->>>>>>> origin/main
+Organisers: Team coordinator, member-1
 
 ## Purpose
 
