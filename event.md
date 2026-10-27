@@ -6,10 +6,11 @@ Event date: To be confirmed.
 
 Venue: To be confirmed.
 
+\## Purpose
+Organiser: Dylan
 Organisers: Team coordinator, Member 3.
 
-
-\## Purpose
+## Purpose
 
 
 
