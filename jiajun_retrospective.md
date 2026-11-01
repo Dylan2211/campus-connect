@@ -6,7 +6,7 @@ I can create a personal work branch, stage and commit a file, push the branch an
 
 ## A useful review comment
 
-On my programme PR, Esther pointed out that `programme.md` was empty and listed what the document needed to include. I had not checked **Files changed** before asking for review.
+On my programme PR, Esther pointed out that `programme.md` was empty and listed what the document needed to include.
 
 ## An improvement made after feedback
 
